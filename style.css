@@ -45,6 +45,7 @@ input {
   height: 44px;
   border-radius: 24px;
   border: 1px solid #dfe1e5;
+  padding-inline-start: 52px;
 }
 
 .input-area {
